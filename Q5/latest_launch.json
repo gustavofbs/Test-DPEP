@@ -1,0 +1,291 @@
+{
+    "id": "36706be0-2633-4b1f-a036-5da1e19c6872",
+    "url": "https://ll.thespacedevs.com/2.3.0/launches/36706be0-2633-4b1f-a036-5da1e19c6872/",
+    "name": "Ariane 62 | Metop-SG B3",
+    "response_mode": "normal",
+    "slug": "ariane-62-metop-sg-b3",
+    "launch_designator": null,
+    "status": {
+        "id": 2,
+        "name": "To Be Determined",
+        "abbrev": "TBD",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+    },
+    "last_updated": "2023-06-14T03:56:50Z",
+    "net": "2039-12-31T00:00:00Z",
+    "net_precision": null,
+    "window_end": "2039-12-31T00:00:00Z",
+    "window_start": "2039-12-31T00:00:00Z",
+    "image": {
+        "id": 2123,
+        "name": "Ariane 62 liftoff (Maiden Flight)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_thumbnail_20240711132056.jpeg",
+        "credit": "ESA/CNES/Arianespace/ArianeGroup/Optique vid\u00e9o du CSG\u2013S. Martin",
+        "license": {
+            "id": 2,
+            "name": "ESA Standard Licence",
+            "priority": 2,
+            "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+        },
+        "single_use": false,
+        "variants": []
+    },
+    "infographic": null,
+    "probability": null,
+    "weather_concerns": null,
+    "failreason": "",
+    "hashtag": null,
+    "launch_service_provider": {
+        "response_mode": "list",
+        "id": 115,
+        "url": "https://ll.thespacedevs.com/2.3.0/agencies/115/",
+        "name": "Arianespace",
+        "abbrev": "ASA",
+        "type": {
+            "id": 3,
+            "name": "Commercial"
+        }
+    },
+    "rocket": {
+        "id": 7710,
+        "configuration": {
+            "response_mode": "list",
+            "id": 121,
+            "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/121/",
+            "name": "Ariane 62",
+            "families": [
+                {
+                    "response_mode": "list",
+                    "id": 59,
+                    "name": "Ariane"
+                },
+                {
+                    "response_mode": "list",
+                    "id": 62,
+                    "name": "Ariane 6"
+                }
+            ],
+            "full_name": "Ariane 62",
+            "variant": "62"
+        }
+    },
+    "mission": {
+        "id": 6228,
+        "name": "Metop-SG B3",
+        "type": "Earth Science",
+        "description": "Sixth of EUMETSAT's second generation of Metop weather satellites.",
+        "image": null,
+        "orbit": {
+            "id": 17,
+            "name": "Sun-Synchronous Orbit",
+            "abbrev": "SSO",
+            "celestial_body": {
+                "response_mode": "list",
+                "id": 1,
+                "name": "Earth"
+            }
+        },
+        "agencies": [],
+        "info_urls": [],
+        "vid_urls": []
+    },
+    "pad": {
+        "id": 67,
+        "url": "https://ll.thespacedevs.com/2.3.0/pads/67/",
+        "active": true,
+        "agencies": [
+            {
+                "response_mode": "normal",
+                "id": 115,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/115/",
+                "name": "Arianespace",
+                "abbrev": "ASA",
+                "type": {
+                    "id": 3,
+                    "name": "Commercial"
+                },
+                "featured": true,
+                "country": [
+                    {
+                        "id": 1,
+                        "name": "France",
+                        "alpha_2_code": "FR",
+                        "alpha_3_code": "FRA",
+                        "nationality_name": "French",
+                        "nationality_name_composed": "Franco"
+                    }
+                ],
+                "description": "Arianespace SA is a multinational company founded in 1980 as the world's first commercial launch service provider. It undertakes the production, operation, and marketing of the Ariane programme. Their vehicles launch exclusively from French Guiana in South America.",
+                "administrator": "CEO: St\u00e9phane Isra\u00ebl",
+                "founding_year": 1980,
+                "launchers": "Ariane | Vega",
+                "spacecraft": "",
+                "parent": "ArianeGroup",
+                "image": {
+                    "id": 3,
+                    "name": "[AUTO] Arianespace - image",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_image_20190207032425.jpeg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184546.jpeg",
+                    "credit": null,
+                    "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                },
+                "logo": {
+                    "id": 108,
+                    "name": "[AUTO] Arianespace - logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_logo_20210603173752.png",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184909.png",
+                    "credit": null,
+                    "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                },
+                "social_logo": {
+                    "id": 39,
+                    "name": "[AUTO] Arianespace - social_logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_nation_20230530190314.jpg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184728.jpeg",
+                    "credit": null,
+                    "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                }
+            }
+        ],
+        "name": "Ariane Launch Area 4",
+        "image": {
+            "id": 1978,
+            "name": "ELA-4",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ela-4_image_20240310184036.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ela-4_image_thumbnail_20240310184037.jpeg",
+            "credit": "ESA/CNES/Arianespace/Optique Vid\u00e9o du CSG - P. PIRON",
+            "license": {
+                "id": 2,
+                "name": "ESA Standard Licence",
+                "priority": 2,
+                "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+            },
+            "single_use": true,
+            "variants": []
+        },
+        "description": "ELA-4, is a launch pad and associated facilities at the Centre Spatial Guyanais in French Guiana. The complex is composed of a launch pad with mobile gantry, an horizontal assembly building and a dedicated launch operations building. ELA-4 is operated by Arianespace as part of the Ariane 6 program.",
+        "info_url": null,
+        "wiki_url": "https://en.wikipedia.org/wiki/Guiana_Space_Centre",
+        "map_url": "https://www.google.com/maps?q=5.256319,-52.786838",
+        "latitude": 5.256319,
+        "longitude": -52.786838,
+        "country": {
+            "id": 50,
+            "name": "French Guiana",
+            "alpha_2_code": "GF",
+            "alpha_3_code": "GUF",
+            "nationality_name": "French Guianan",
+            "nationality_name_composed": "Franco-Guiano"
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_67_20200803143559.jpg",
+        "total_launch_count": 1,
+        "orbital_launch_attempt_count": 1,
+        "fastest_turnaround": null,
+        "location": {
+            "response_mode": "normal",
+            "id": 13,
+            "url": "https://ll.thespacedevs.com/2.3.0/locations/13/",
+            "name": "Guiana Space Centre, French Guiana",
+            "celestial_body": {
+                "response_mode": "normal",
+                "id": 1,
+                "name": "Earth",
+                "type": {
+                    "id": 1,
+                    "name": "Planet"
+                },
+                "diameter": 12742000.0,
+                "mass": 5.972168e+24,
+                "gravity": 9.80655,
+                "length_of_day": "1 00:00:00",
+                "atmosphere": true,
+                "image": {
+                    "id": 2040,
+                    "name": "Earth (Apollo 17)",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+                    "credit": "NASA",
+                    "license": {
+                        "id": 4,
+                        "name": "NASA Image and Media Guidelines",
+                        "priority": 0,
+                        "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                    },
+                    "single_use": true,
+                    "variants": []
+                },
+                "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+                "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+                "total_attempted_launches": 7049,
+                "successful_launches": 6511,
+                "failed_launches": 538,
+                "total_attempted_landings": 1037,
+                "successful_landings": 997,
+                "failed_landings": 40
+            },
+            "active": true,
+            "country": {
+                "id": 50,
+                "name": "French Guiana",
+                "alpha_2_code": "GF",
+                "alpha_3_code": "GUF",
+                "nationality_name": "French Guianan",
+                "nationality_name_composed": "Franco-Guiano"
+            },
+            "description": "The Guiana Space Centre is a European spaceport to the northwest of Kourou in French Guiana, a region of France in South America. Kourou is located at a latitude of 5\u00b0. In operation since 1968, it is a suitable location for a spaceport because of its equatorial location and open sea to the east.",
+            "image": {
+                "id": 2203,
+                "name": "Vega & Ariane 5 pads at the Guiana Space Centre",
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega_2526_aria_image_20240918154413.jpg",
+                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega_2526_aria_image_thumbnail_20240918154414.jpeg",
+                "credit": "ESA/S. Corvaja",
+                "license": {
+                    "id": 2,
+                    "name": "ESA Standard Licence",
+                    "priority": 2,
+                    "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+                },
+                "single_use": true,
+                "variants": []
+            },
+            "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_13_20200803142412.jpg",
+            "longitude": -52.6903,
+            "latitude": 5.169,
+            "timezone_name": "America/Cayenne",
+            "total_launch_count": 323,
+            "total_landing_count": 0
+        }
+    },
+    "webcast_live": false,
+    "program": [],
+    "orbital_launch_attempt_count": 7171,
+    "location_launch_attempt_count": 375,
+    "pad_launch_attempt_count": 25,
+    "agency_launch_attempt_count": 366,
+    "orbital_launch_attempt_count_year": 1,
+    "location_launch_attempt_count_year": 1,
+    "pad_launch_attempt_count_year": 1,
+    "agency_launch_attempt_count_year": 1
+}
