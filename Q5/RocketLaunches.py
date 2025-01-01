@@ -26,7 +26,7 @@ def fetch_latest_launch():
         if data["results"]:
             launch = data["results"][0]  # Pegando o primeiro (e único) resultado
             
-            # Salvando os dados em um arquivo JSON
+            # Salvando os dados em um arquivo JSON  no caminho que o usuário estiver localizado
             with open(output_path, "w") as file:
                 json.dump(launch, file, indent=4)
             
