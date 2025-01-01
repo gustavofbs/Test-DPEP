@@ -57,10 +57,9 @@ Utilizando a biblioteca LangChain, a aplicação implementa um modelo de linguag
 - O usuário fornece um texto
 - O usuário fornece perguntas sobre o texto
 
-A resposta do modelo é retornado 
+A resposta do modelo é retornado, como pode ser visualizado em um exemplo abaixo (via terminal):
 
-
-
+![outputQ2](/assets/outputQ2.png)
 
 ## Q3
 
@@ -126,7 +125,7 @@ O script foi feito de forma modular, separando os prompts em três etapas:
 
 Essa separação modular facilita a manutenção do contexto e a adaptação do script a outras tarefas.
 
-#### A seguir, uma imagem de como funciona a aplicação (via terminal):
+#### A seguir, uma exemplo de como funciona a aplicação (via terminal):
 
 ![outputQ4](/assets/outputQ4.png)
 
