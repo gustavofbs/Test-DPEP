@@ -12,24 +12,36 @@ Python 3.10 ou superior
 Clone o Repositório e entre na pasta do projeto
 
 ```bash
-git clone https://github.com/gustavofbs/Test-DPEP
+$ git clone https://github.com/gustavofbs/Test-DPEP
 
-cd Test-DPEP/
+$ cd Test-DPEP/
 ```
 
 Cria uma virtualenv (venv) e ative ela
 
 ```bash
-python3 -m venv venv
+$ python3 -m venv venv
 
-source venv/bin/activate 
+$ source venv/bin/activate 
 ```
 
 Instale as dependências
 
 ```bash
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
+
+Para executar via terminal uma questão específica, pode fazer:
+
+```bash
+$ python3 <FILE_PATH>
+
+# Caso não saiba o FILE_PATH da questão, digite para encontrá-lo:
+
+$ pwd
+```
+
+
 
 Configure a sua `.env` - Serão necessárias nas questões 2 e 4
 
